@@ -15,10 +15,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/@javoxpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@javoxpl" height="30" width="40" /></a>
 <a href="https://dev.to/@javoxpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@javoxpl" height="30" width="40" /></a>
 <a href="https://twitter.com/javoxpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javoxpl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/lorenzo-iacovone-932102175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lorenzo-iacovone-932102175" height="30" width="40" /></a>
-<a href="https://instagram.com/javo_xpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="java_xpl" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/lorenzo iacovone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lorenzo iacovone" height="30" width="40" /></a>
+<a href="https://codesandbox.com/javoxpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="javoxpl" height="30" width="40" /></a>
+<a href="https://kaggle.com/lorenzoiacovone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lorenzoiacovone" height="30" width="40" /></a>
+<a href="https://instagram.com/javo_xpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javo_xpl" height="30" width="40" /></a>
+<a href="https://dribbble.com/lorenzo iacovone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="lorenzo iacovone" height="30" width="40" /></a>
+<a href="https://hashnode.com/@javoxpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@javoxpl" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/javoxpl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="javoxpl" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@lorenzo_iacovon1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lorenzo_iacovon1" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/javoxpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="javoxpl" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/lorenzo iacovone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="lorenzo iacovone" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user_ao9lymn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user_ao9lymn" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/javoxpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="javoxpl" height="30" width="40" /></a>
 <a href="https://discord.gg/Z3nzyRCjtP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Z3nzyRCjtP" height="30" width="40" /></a>
 </p>
 
