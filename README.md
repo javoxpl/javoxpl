@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**javoxpl/javoxpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">A passionate student, junior full stack web developer from Italy</h3>
 
