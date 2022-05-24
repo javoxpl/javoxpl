@@ -18,7 +18,7 @@
 <a href="https://dev.to/@javoxpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@javoxpl" height="30" width="40" /></a>
 <a href="https://twitter.com/javoxpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javoxpl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/lorenzo-iacovone-932102175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lorenzo-iacovone-932102175" height="30" width="40" /></a>
-<a href="https://instagram.com/java_xpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="java_xpl" height="30" width="40" /></a>
+<a href="https://instagram.com/javo_xpl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="java_xpl" height="30" width="40" /></a>
 <a href="https://discord.gg/Z3nzyRCjtP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Z3nzyRCjtP" height="30" width="40" /></a>
 </p>
 
