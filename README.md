@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
-<h3 align="center">A passionate student, junior full stack web developer from Italy</h3>
+<h3 align="center">A passionate student, a future junior full stack web developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javoxpl&label=Profile%20views&color=0e75b6&style=flat" alt="javoxpl" /> </p>
 
